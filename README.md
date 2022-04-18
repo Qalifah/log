@@ -1,0 +1,1 @@
+### The aim of this project is to be able to convert log data to Go datatypes.
