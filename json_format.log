@@ -1,0 +1,66 @@
+{"error":"crypto/bcrypt: hashedPassword is not the hash of the given password","level":"error","msg":"invalid login credentials","time":"2022-04-30T21:25:45+01:00"}
+{"error":"Key: 'Password' Error:Field validation for 'Password' failed on the 'required' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:45+01:00"}
+{"error":"strconv.Atoi: parsing: invalid syntax","level":"error","msg":"invalid month","time":"2022-04-30T21:25:46+01:00"}
+{"error":"Key: 'Calendar' Error:Field validation for 'Calendar' failed on the 'gt' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:46+01:00"}
+{"error":"Key: 'Calendar' Error:Field validation for 'Calendar' failed on the 'gt' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:46+01:00"}
+{"error":"food not found","level":"error","msg":"failed to delete food","time":"2022-04-30T21:25:46+01:00"}
+{"error":"food not found","level":"error","msg":"failed to get food","time":"2022-04-30T21:25:46+01:00"}
+{"level":"error","msg":"category not found","time":"2022-04-30T21:25:46+01:00"}
+{"level":"error","msg":"name already exist","time":"2022-04-30T21:25:45+01:00"}
+{"level":"error","msg":"name already exist","time":"2022-04-30T21:25:45+01:00"}
+{"error":"expired refresh token","level":"error","msg":"invalid token","time":"2022-04-30T21:25:45+01:00"}
+{"error":"crypto/bcrypt: hashedPassword is not the hash of the given password","level":"error","msg":"invalid login credentials","time":"2022-04-30T21:25:45+01:00"}
+{"error":"Key: 'Password' Error:Field validation for 'Password' failed on the 'required' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:45+01:00"}
+{"error":"strconv.Atoi: parsing: invalid syntax","level":"error","msg":"invalid month","time":"2022-04-30T21:25:46+01:00"}
+{"error":"Key: 'Calendar' Error:Field validation for 'Calendar' failed on the 'gt' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:46+01:00"}
+{"error":"Key: 'Calendar' Error:Field validation for 'Calendar' failed on the 'gt' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:46+01:00"}
+{"error":"food not found","level":"error","msg":"failed to delete food","time":"2022-04-30T21:25:46+01:00"}
+{"error":"food not found","level":"error","msg":"failed to get food","time":"2022-04-30T21:25:46+01:00"}
+{"level":"error","msg":"category not found","time":"2022-04-30T21:25:46+01:00"}
+{"level":"error","msg":"name already exist","time":"2022-04-30T21:25:45+01:00"}
+{"level":"error","msg":"name already exist","time":"2022-04-30T21:25:45+01:00"}
+{"error":"expired refresh token","level":"error","msg":"invalid token","time":"2022-04-30T21:25:45+01:00"}
+{"error":"crypto/bcrypt: hashedPassword is not the hash of the given password","level":"error","msg":"invalid login credentials","time":"2022-04-30T21:25:45+01:00"}
+{"error":"Key: 'Password' Error:Field validation for 'Password' failed on the 'required' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:45+01:00"}
+{"error":"strconv.Atoi: parsing: invalid syntax","level":"error","msg":"invalid month","time":"2022-04-30T21:25:46+01:00"}
+{"error":"Key: 'Calendar' Error:Field validation for 'Calendar' failed on the 'gt' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:46+01:00"}
+{"error":"Key: 'Calendar' Error:Field validation for 'Calendar' failed on the 'gt' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:46+01:00"}
+{"error":"food not found","level":"error","msg":"failed to delete food","time":"2022-04-30T21:25:46+01:00"}
+{"error":"food not found","level":"error","msg":"failed to get food","time":"2022-04-30T21:25:46+01:00"}
+{"level":"error","msg":"category not found","time":"2022-04-30T21:25:46+01:00"}
+{"level":"error","msg":"name already exist","time":"2022-04-30T21:25:45+01:00"}
+{"level":"error","msg":"name already exist","time":"2022-04-30T21:25:45+01:00"}
+{"error":"expired refresh token","level":"error","msg":"invalid token","time":"2022-04-30T21:25:45+01:00"}
+{"error":"crypto/bcrypt: hashedPassword is not the hash of the given password","level":"error","msg":"invalid login credentials","time":"2022-04-30T21:25:45+01:00"}
+{"error":"Key: 'Password' Error:Field validation for 'Password' failed on the 'required' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:45+01:00"}
+{"error":"strconv.Atoi: parsing: invalid syntax","level":"error","msg":"invalid month","time":"2022-04-30T21:25:46+01:00"}
+{"error":"Key: 'Calendar' Error:Field validation for 'Calendar' failed on the 'gt' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:46+01:00"}
+{"error":"Key: 'Calendar' Error:Field validation for 'Calendar' failed on the 'gt' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:46+01:00"}
+{"error":"food not found","level":"error","msg":"failed to delete food","time":"2022-04-30T21:25:46+01:00"}
+{"error":"food not found","level":"error","msg":"failed to get food","time":"2022-04-30T21:25:46+01:00"}
+{"level":"error","msg":"category not found","time":"2022-04-30T21:25:46+01:00"}
+{"level":"error","msg":"name already exist","time":"2022-04-30T21:25:45+01:00"}
+{"level":"error","msg":"name already exist","time":"2022-04-30T21:25:45+01:00"}
+{"error":"expired refresh token","level":"error","msg":"invalid token","time":"2022-04-30T21:25:45+01:00"}
+{"error":"crypto/bcrypt: hashedPassword is not the hash of the given password","level":"error","msg":"invalid login credentials","time":"2022-04-30T21:25:45+01:00"}
+{"error":"Key: 'Password' Error:Field validation for 'Password' failed on the 'required' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:45+01:00"}
+{"error":"strconv.Atoi: parsing: invalid syntax","level":"error","msg":"invalid month","time":"2022-04-30T21:25:46+01:00"}
+{"error":"Key: 'Calendar' Error:Field validation for 'Calendar' failed on the 'gt' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:46+01:00"}
+{"error":"Key: 'Calendar' Error:Field validation for 'Calendar' failed on the 'gt' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:46+01:00"}
+{"error":"food not found","level":"error","msg":"failed to delete food","time":"2022-04-30T21:25:46+01:00"}
+{"error":"food not found","level":"error","msg":"failed to get food","time":"2022-04-30T21:25:46+01:00"}
+{"level":"error","msg":"category not found","time":"2022-04-30T21:25:46+01:00"}
+{"level":"error","msg":"name already exist","time":"2022-04-30T21:25:45+01:00"}
+{"level":"error","msg":"name already exist","time":"2022-04-30T21:25:45+01:00"}
+{"error":"expired refresh token","level":"error","msg":"invalid token","time":"2022-04-30T21:25:45+01:00"}
+{"error":"crypto/bcrypt: hashedPassword is not the hash of the given password","level":"error","msg":"invalid login credentials","time":"2022-04-30T21:25:45+01:00"}
+{"error":"Key: 'Password' Error:Field validation for 'Password' failed on the 'required' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:45+01:00"}
+{"error":"strconv.Atoi: parsing: invalid syntax","level":"error","msg":"invalid month","time":"2022-04-30T21:25:46+01:00"}
+{"error":"Key: 'Calendar' Error:Field validation for 'Calendar' failed on the 'gt' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:46+01:00"}
+{"error":"Key: 'Calendar' Error:Field validation for 'Calendar' failed on the 'gt' tag","level":"error","msg":"validation failed","time":"2022-04-30T21:25:46+01:00"}
+{"error":"food not found","level":"error","msg":"failed to delete food","time":"2022-04-30T21:25:46+01:00"}
+{"error":"food not found","level":"error","msg":"failed to get food","time":"2022-04-30T21:25:46+01:00"}
+{"level":"error","msg":"category not found","time":"2022-04-30T21:25:46+01:00"}
+{"level":"error","msg":"name already exist","time":"2022-04-30T21:25:45+01:00"}
+{"level":"error","msg":"name already exist","time":"2022-04-30T21:25:45+01:00"}
+{"error":"expired refresh token","level":"error","msg":"invalid token","time":"2022-04-30T21:25:45+01:00"}
